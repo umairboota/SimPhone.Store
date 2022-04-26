@@ -1,0 +1,54 @@
+.homebg {
+  background-color: white;
+  margin: 0%;
+  display: block;
+}
+
+.img {
+  display: block;
+}
+
+.container1 {
+  position: relative;
+  text-align: center;
+  color: white;
+}
+
+.top-left {
+  position: absolute;
+  top: 8px;
+  left: 20px;
+  text-align-last: justify;
+}
+.top-left-2 {
+  position: absolute;
+  text-align: left;
+  top: 100px;
+  left: 25px;
+}
+
+.color-1 {
+  background-color: #81d742;
+  background-size: cover;
+}
+
+.text-1 {
+  padding-top: 5%;
+  padding-right: 50px;
+}
+
+.text-2 {
+  padding-right: 50px;
+}
+
+.color-2 {
+  background-color: #81d742;
+}
+
+.bg1 {
+  border: 2px solid black;
+  padding: 25px;
+  background-color: #81d742;
+  background-repeat: no-repeat;
+  background-size: 100px 200px;
+}
